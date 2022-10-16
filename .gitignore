@@ -1,0 +1,46 @@
+# OS generated files #
+######################
+.DS_Store
+.DS*
+.AppleDouble
+.LSOverride
+
+Icon
+
+
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Folders #
+###################
+/bin
+.assets/
+.pio/
+.vscode/
+data/
+
+# Misc. #
+###################
+**/*.b#
+**/*.bak
+**/*.dsn
+**/*.pxd
+**/*.rules
+**/*.ses
+**/*-backups
+**/*-bak
+**/*-rescue*
+**/*-test*
+*io.bit
+*snarf
